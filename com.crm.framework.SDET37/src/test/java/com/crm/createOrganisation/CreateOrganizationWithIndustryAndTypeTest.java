@@ -51,5 +51,7 @@ public class CreateOrganizationWithIndustryAndTypeTest extends BaseClass{
 		//Print output is report and console
 		Reporter.log("CreateOrganizationWithIndustryAndTypeTest is pass",true);
 		softAssert.assertAll();
+		
+		//this is the best code
 	}
 }
